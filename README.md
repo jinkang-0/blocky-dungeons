@@ -1,4 +1,8 @@
 # blocky-dungeons
 A blocky dungeon crawler from a top-down perspective.
 
-- Made with Unity & built using WebGL
+### Github Page
+https://jinkang-0.github.io/blocky-dungeons/
+
+- Made with Unity
+- Built using WebGL
